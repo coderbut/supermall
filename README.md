@@ -1,4 +1,4 @@
-# mall-self
+# mall
 
 ## Project setup
 ```
